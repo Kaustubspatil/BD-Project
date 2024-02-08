@@ -1,10 +1,10 @@
-# BD-Project
 
-# Group 9 Project 
+# BD - Project (Community App)
 
-#Collabrators 
+Creating a New Healthy Community
 
-a. Kaustubh Patil
-b. Varun Batra 
-c. Tenzin Yangzom 
-d. Jagroop Sandhu 
+## Authors
+
+- [@Kaustubspatil](https://github.com/Kaustubspatil)
+- [@TenzinYangzom](https://github.com/Tenzin-Yangzom-6839)
+
