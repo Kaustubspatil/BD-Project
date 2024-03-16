@@ -7,4 +7,4 @@ Building Synckali
 
 - [@Kaustubspatil](https://github.com/Kaustubspatil)
 - [@TenzinYangzom](https://github.com/Tenzin-Yangzom-6839)
-
+- [@vbatra-01](https://github.com/vbatra-01)
